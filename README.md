@@ -28,10 +28,11 @@ const aboutMe = {
    Job: "Web Developer" || "Full-Stack Developer",
    company: "infogates Company",
    allocatedIn: "Istanbul",
-   technologiesUsedInWork: ["FrontEnd", "Mern Stack", "JavaScript",
-   "NEXT.js", ".NET","Dart", "Python"],
+   technologiesUsedInWork: ["FrontEnd","Mern Stack",
+   "JavaScript", "NEXT.js", ".NET","Dart", "Python"],
    favoriteApiClient: "Insomnia",
-   challenge: "I'm studying Dark, Java and doing a lot of research",
+   challenge: "I'm studying Dark,
+   Java and doing a lot of research",
    hobbies: ["Study", "Gym", "Music", "Swimming"],
 };
 </pre>
@@ -54,7 +55,7 @@ if you love what I do and would like to support me. 😊 <br>
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Portfolio1 [#1](#) in [UmitRock/#](#)
+1. ❗️ Water Drop Cards UI With Hover Effects [#1](https://github.com/UmitRock/Water-Drop-Cards-UI-With-Hover-Effects) in [UmitRock/Water-Drop-Cards-UI-With-Hover-Effects](https://github.com/UmitRock/Water-Drop-Cards-UI-With-Hover-Effects)
 2. 🎉 Portfolio2 [#2](#) in [UmitRock/#](#)
 3. 🗣 Portfolio3 [#3](#) in [UmitRock/#](#)
 4. ❗️ Portfolio4 [#4](#) in [UmitRock/#](#)
