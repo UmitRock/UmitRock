@@ -62,6 +62,8 @@ if you love what I do and would like to support me. 😊 <br>
 5. 🗣 Portfolio5 [#5](#) in [UmitRock/#](#)
 <!--END_SECTION:activity-->
 
+## Stats📈
 [![UmitRock's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=UmitRock&&theme=xcode)](https://github.com/UmitRock)
 
 &nbsp;<img align="left" style=" width: 400px;" src="https://github-readme-stats.vercel.app/api?username=UmitRock&show_icons=true&locale=en&theme=tokyonight" alt="UmitRock" /><img align="right" style=" width: 400px;" src="https://github-readme-streak-stats.herokuapp.com/?user=UmitRock&&theme=tokyonight" alt="UmitRock" />
+<img align="center" style=" width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umitrock&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
