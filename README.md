@@ -55,8 +55,8 @@ if you love what I do and would like to support me. 😊 <br>
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Water Drop Cards UI With Hover Effects [#1](https://github.com/UmitRock/Water-Drop-Cards-UI-With-Hover-Effects) in [UmitRock/Water-Drop-Cards-UI-With-Hover-Effects](https://github.com/UmitRock/Water-Drop-Cards-UI-With-Hover-Effects)
-2. 🎉 Portfolio2 [#2](#) in [UmitRock/#](#)
+1. :tada: Water Drop Cards UI With Hover Effects [#1](https://github.com/UmitRock/Water-Drop-Cards-UI-With-Hover-Effects) in [UmitRock/Water-Drop-Cards-UI-With-Hover-Effects](https://github.com/UmitRock/Water-Drop-Cards-UI-With-Hover-Effects)
+2. :white_check_mark: SignUp Form Animation [#2](https://github.com/UmitRock/SignUp-Form-Animation) in [UmitRock/SignUp-Form-Animation](https://github.com/UmitRock/SignUp-Form-Animation)
 3. 🗣 Portfolio3 [#3](#) in [UmitRock/#](#)
 4. ❗️ Portfolio4 [#4](#) in [UmitRock/#](#)
 5. 🗣 Portfolio5 [#5](#) in [UmitRock/#](#)
