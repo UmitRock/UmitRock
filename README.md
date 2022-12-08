@@ -25,7 +25,7 @@ const aboutMe = {
    pronouns: "he" | "him",
    age: 37,
    state: "Sisli",
-   Job: "Web Developer" || "Full-Stack Developer",
+   Job: "Apps Developer" || "Full-Stack Developer",
    company: "infogates Company",
    allocatedIn: "Istanbul",
    technologiesUsedInWork: ["FrontEnd","Mern Stack",
@@ -57,8 +57,8 @@ if you love what I do and would like to support me. 😊 <br>
 <!--START_SECTION:activity-->
 1. :tada: Water Drop Cards UI With Hover Effects [#1](https://github.com/UmitRock/Water-Drop-Cards-UI-With-Hover-Effects) in [UmitRock/Water-Drop-Cards-UI-With-Hover-Effects](https://github.com/UmitRock/Water-Drop-Cards-UI-With-Hover-Effects)
 2. :white_check_mark: SignUp Form Animation [#2](https://github.com/UmitRock/SignUp-Form-Animation) in [UmitRock/SignUp-Form-Animation](https://github.com/UmitRock/SignUp-Form-Animation)
-3. 🗣 Portfolio3 [#3](#) in [UmitRock/#](#)
-4. ❗️ Portfolio4 [#4](#) in [UmitRock/#](#)
+3. 🗣 Nike Product [#3](https://github.com/UmitRock/Nike-Product) in [UmitRock/Nike-Product](https://github.com/UmitRock/Nike-Product)
+4. ❗️ Password Strength Checker [#4](https://github.com/UmitRock/Password-Strength-Checker) in [UmitRock/Password-Strength-Checker](https://github.com/UmitRock/Password-Strength-Checker)
 5. 🗣 Portfolio5 [#5](#) in [UmitRock/#](#)
 <!--END_SECTION:activity-->
 
